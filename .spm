@@ -1,0 +1,7 @@
+name = "bootstrap-css"
+description = "Bootstrap CSS Library for Slim"
+version = "1.0.0"
+
+@ github
+	organization = "true"
+	repo = "spm-libs/bootstrap-css"

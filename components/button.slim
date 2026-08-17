@@ -1,0 +1,7 @@
+export component BSButton(props) {
+	const type = props.type;
+	const text = props.text;
+	const id = props.id;
+
+	return <button id="${id}" type="button" class="btn btn-${type}" onClick=${props.onClick}>${text}</button>
+}
